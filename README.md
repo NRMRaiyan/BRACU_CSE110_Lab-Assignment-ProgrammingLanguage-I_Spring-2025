@@ -1,6 +1,4 @@
-# BRACU_CSE110_Lab-Assignments(Programming Language-I) Spring 2025
-
-# CSE110: Programming Language-I (Spring - 2025)
+# BRACU CSE110: Programming Language-I Lab (Spring - 2025)
 
 > Solutions for the BRAC University Course - CSE110 Lab Assignments (Spring - 2025).
 
@@ -8,26 +6,30 @@
 
 # Course Outline:
 
-## **Week 1:** Variables, Data types & Operators
-
-## **Week 2:** Branching (if /else)
- * CSE110 Lab Assignment 01
-
-## **Week 3:** Iterations
+## **Week 1:** Flowchart and Introduction to JAVA Programming Language
  * CSE110 Lab Assignment 02
 
-## **Week 4 & Week 5:** String
+## **Week 2:** Branching
+ * CSE110 Lab Assignment 02
+
+## **Week 3:** Linear Loops
  * CSE110 Lab Assignment 03
 
-## **Week 6:** List
+## **Week 4 & Week 5:** Nested Loops
  * CSE110 Lab Assignment 04
 
-## **Week 7:** Dictionary & Tuple
+## **Week 6:** Pattern Generation
  * CSE110 Lab Assignment 05
 
-## **Week 8 & Week 9:** Functions & Variable scoping
+## **Week 7:** String
  * CSE110 Lab Assignment 06
 
-## **Week 10:** Sorting & Searching
+## **Week 8:** Arrays
+ * CSE110 Lab Assignment 07
 
-## **Week 11 & Week 12 [Optional] :** File I/O, Excetion, OOP (Introduction)
+## **Week 9:** Method
+ * CSE110 Lab Assignment 08
+
+## **Week 10:**
+
+## **Week 11 :**
