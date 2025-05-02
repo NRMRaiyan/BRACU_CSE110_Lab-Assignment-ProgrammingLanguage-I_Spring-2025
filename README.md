@@ -2,7 +2,7 @@
 
 > Solutions for the BRAC University Course - CSE110 Lab Assignments (Spring - 2025).
 
-> All the solutions are written with JAVA
+> All the solutions are written with JAVA Programming Language
 
 # Course Outline:
 
