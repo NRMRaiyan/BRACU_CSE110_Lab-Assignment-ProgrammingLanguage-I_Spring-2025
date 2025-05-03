@@ -1,5 +1,5 @@
-public class main{
-  public static void task01(String[] args){
+public class task01{
+  public static void main(String[] args){
     int hungry; // correct
     int 2AB; // incorrect - cannot start with numbers
     int 312.2; // incorrect - cannot start with numbers
