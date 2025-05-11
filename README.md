@@ -7,7 +7,7 @@
 # Course Outline:
 
 ## **Week 1:** Flowchart and Introduction to JAVA Programming Language
- * CSE110 Lab Assignment 02
+ * CSE110 Lab Assignment 01
 
 ## **Week 2:** Branching
  * CSE110 Lab Assignment 02
@@ -30,6 +30,7 @@
 ## **Week 9:** Method
  * CSE110 Lab Assignment 08
 
-## **Week 10:**
+## **Week 10:** Recursive Method
+  * CSE110 Lab Assignment 09
 
 ## **Week 11 :**
